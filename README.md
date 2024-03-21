@@ -16,8 +16,8 @@
 ## Stakeholders
 
 - Usuários: Alunos, Docentes e Servidores do campus
-- Equipe de desenvolvimento:
-@https://github.com/liviasab
+- Equipe de desenvolvimento.
+@liviasab
 
 ## Limitações
 
