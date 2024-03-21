@@ -17,7 +17,10 @@
 
 - Usuários: Alunos, Docentes e Servidores do campus
 - Equipe de desenvolvimento:
-@ [liviasab](https://github.com/liviasab)
+@ [Livia](https://github.com/liviasab)
+@ [Simeia] (https://github.com/SiOlimpia)
+@ [Denilson] (https://github.com/Denils0n)
+@ [Luan] (https://github.com/Luanjoss)
 
 ## Limitações
 
