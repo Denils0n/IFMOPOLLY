@@ -17,7 +17,7 @@
 
 - Usuários: Alunos, Docentes e Servidores do campus
 - Equipe de desenvolvimento.
-@ liviasab
+@ [liviasab](https://github.com/liviasab)
 
 ## Limitações
 
