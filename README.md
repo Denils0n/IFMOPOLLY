@@ -1,17 +1,14 @@
-# V-END-ENDO
+# IFMOPOLLY
 
 
 ## Problemática
 
-- Comércio descentralizado
-- Falta de visibilidade para os talentos do campus
-- Acesso a comércio em área não urbanizada
+- Tedio na espera da aulas.
+- Falta de ter coisas para jogar.
 
 ## Solução: Sistema que seja capaz de:
 
-- Reunir o comércio do campus
-- Divulgar Habilidades dos alunos
-- Facilitar o acesso ao produto
+- Fazer um jogo divertido para distrair um tempo.
 
 ## Stakeholders
 
@@ -24,14 +21,12 @@
 
 ## Limitações
 
-- Não será possível pagamentos na plataforma
-- Não haverá chat online
-- Venda apenas de produtos lícitos
-- Cadastro/Acesso restrito a comunidade do campus
+- O jogo não vai ter login.
+  
 
 ## Concorrentes
 
-- Grupo de whatsapp
-- Comercio boca-a-boca
+- Jogo da vida.
+
 
 
